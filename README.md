@@ -124,3 +124,5 @@ tk.Label(win, text="Яркость LED").grid(column=2, row=2)
 Сигнал отключается (яркость = 0)
 
 Кнопка снова становится активной
+
+https://avatars.mds.yandex.net/i?id=2725ed916e5209c1197e413381465a1560cd27b3-8152091-images-thumbs&n=13
