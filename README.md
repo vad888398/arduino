@@ -121,10 +121,9 @@ tk.Label(win, text="Яркость LED").grid(column=2, row=2)
 
 Программа ждет указанное время
 
-<img width="498" height="289" alt="image" src="https://github.com/user-attachments/assets/6916a7aa-e300-4b0e-aafe-3bee4e3439e0" />
-
-
 Сигнал отключается (яркость = 0)
 
 Кнопка снова становится активной
-https://avatars.mds.yandex.net/i?id=2725ed916e5209c1197e413381465a1560cd27b3-8152091-images-thumbs&n=13
+<img width="498" height="289" alt="image" src="https://github.com/user-attachments/assets/6c775bdb-cbac-4c72-90fd-a5c32476607e" />
+
+
